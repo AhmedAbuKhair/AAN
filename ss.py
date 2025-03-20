@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Replace this with your actual bot token
-TELEGRAM_BOT_TOKEN = 'CHANGE_ME_AUTH'
+TELEGRAM_BOT_TOKEN = '6527201045:AAHrXWcauZeepjxWRAu1p9J1cPUuMmY1cyw'
 
 def calculate_md5(file_path):
     hash_md5 = hashlib.md5()
